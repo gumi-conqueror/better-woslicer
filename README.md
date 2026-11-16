@@ -1,3 +1,5 @@
+<h1>Cannot properly assign an open-source license to this repo. A cleanroom implementation is available at https://github.com/gumi-conqueror/woslicer-dx</h1>
+
 # woslicer-dx
 
 **English** · [中文](README.zh-CN.md) · [日本語](README.ja.md) · [한국어](README.ko.md)
